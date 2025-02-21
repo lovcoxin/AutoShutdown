@@ -1,1 +1,3 @@
-一个简单的自动关机的python脚本
+### 离线安装依赖库
+
+pip install --no-index --find-links=./offline_packages chardet
